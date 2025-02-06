@@ -5,7 +5,7 @@ SubScout is a subdomain enumeration and OSINT tool designed for ethical penetrat
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SubScout.git
+   git clone https://github.com/imuhsinalishah/SubScout.git
 #Install dependencies:
    pip install -r requirements.txt
 
